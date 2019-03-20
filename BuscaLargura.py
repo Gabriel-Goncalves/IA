@@ -40,7 +40,6 @@ class Grafo:
             fila.pop(0)
 
 
-
 gyn = Vertice('Gyn', 0)
 
 bv = Vertice('Boa Vista', 45)
